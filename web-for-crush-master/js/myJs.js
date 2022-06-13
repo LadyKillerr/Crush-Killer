@@ -7,11 +7,11 @@ const textConfig = {
   text6: "Yêu ơi là yêuuuuuu <3",
   text7: "Aww không biết tại sao vậy taa ",
   text8: "Em vẫn luôn nghĩ vậy ó <3",
-  text9: "Vì anh dz giốngg Oh Sehun lắm íii     (khác mỗi cái mặt)    ",
-  text10: "Awwww anh biết mà ^^ Yêu em 300.000 ",
+  text9: "Vì anh danggiuuuuu lắm íiii    ",
+  text10: "Awwww vậy ạaa ^^ Yêu em 3000 ",
   text11:
     "Tối nay anh qua đón nàng đi chơi nhaaaa ",
-  text12: "Dạa a đi nhắn em nhée <3 ",
+  text12: "Dạa mình inb tiếp nhaa ",
 };
 
 $(document).ready(function () {
